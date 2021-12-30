@@ -20,4 +20,5 @@ for i in range(floor):
        print(Fore.YELLOW+'@@'*18)
        print(Fore.GREEN+'o0'*18)
     
+    
 

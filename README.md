@@ -1,9 +1,6 @@
 # CHRISTMAS-TREE
 simply python
 ###===***THE CHRISTMAS TREE***===###
-
-
-
                 *
                ***
               *****
@@ -25,8 +22,6 @@ simply python
               #####
               #####
               #####
-              
-              
 v v v v v v v v v v v v v v v v v v 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0
